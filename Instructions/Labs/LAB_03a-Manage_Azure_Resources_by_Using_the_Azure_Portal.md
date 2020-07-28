@@ -43,7 +43,7 @@ In this task, you will use the Azure portal to create resource groups and create
 
 1. Click **Review + Create** and then click **Create**.
 
-1. In the Azure portal, search for and select **Disks**, click **+ Add**, and specify the following settings:
+1. In the Azure portal, search for and select **Managed Disks**, click **+ Add**, and specify the following settings:
 
     |Setting|Value|
     |---|---|
@@ -84,7 +84,7 @@ In this task, we will move the disk resource you created in the previous task to
 
 In this task, you will apply a resource lock to an Azure resource group containing a disk resource.
 
-1. In the Azure portal, search for and select **Disks**, click **+ Add**, and specify the following settings:
+1. In the Azure portal, search for and select **Managed Disks**, click **+ Add**, and specify the following settings:
 
     |Setting|Value|
     |---|---|
